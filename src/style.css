@@ -83,4 +83,9 @@ body {
     margin: 0 80px;
     font-size: 20px;
   }
-  
+  .author {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Concert One", cursive;
+    color: #4cd3c2;
+  }
